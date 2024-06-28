@@ -1,1 +1,4 @@
 ဒီဟာက HTML အကြောင်းလေးကို သင်ပေးထားတဲ့ မှတ်စုပါနော်
+
+This is lesson 1
+HTML is the Hypertext Markup Language
